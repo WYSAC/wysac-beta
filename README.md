@@ -6,7 +6,7 @@ Set to launch <strong>Spring 2016</strong>. ?
 ## Content Management
 Run in Wordpress with templates/themes hacked by Jessica, I think.  Set up with existing content.
 
-### Componets TK
+### Components TK
 <ul><li>Blog component managed by someone, with content published by researchers. -- Spring/Summer 2016?</li>
 <li>Web-first publishing workflow (similar to WY Tobacco) -- ???? </li>
 </ul>
